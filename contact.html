@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CONTACT | 오롯이 마케팅</title>
+  <meta name="description" content="현재 상황을 정리해 문의를 남길 수 있는 오롯이 마케팅 CONTACT 페이지입니다.">
+  <link rel="stylesheet" href="styles/site.css">
+  <script defer src="scripts/site.js"></script>
+</head>
+<body class="subpage">
+  <div class="site-shell">
+    <header class="site-header">
+      <a class="brand showcase-brand" href="index.html" aria-label="오롯이 마케팅 메인">
+        <img class="showcase-brand__logo" src="assets/ororti-logo-lockup.svg" alt="오롯이 마케팅">
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+      <nav class="site-nav" id="site-nav" aria-label="주요 메뉴">
+        <a href="about.html" data-nav-link>ABOUT</a>
+        <a href="services.html" data-nav-link>SERVICES</a>
+        <a href="sns.html" data-nav-link>SNS</a>
+        <a href="contact.html" data-nav-link>CONTACT</a>
+      </nav>
+    </header>
+
+    <main class="page-main">
+      <section class="page-hero">
+        <div class="page-hero__copy">
+          <p class="eyebrow">CONTACT</p>
+          <h1>지금 운영 중인 흐름을 먼저 같이 정리해보면 됩니다</h1>
+          <p>
+            채널을 바꿔야 하는지, 랜딩을 손봐야 하는지, 메시지부터 정리해야 하는지 혼자 판단하지 않아도 됩니다.
+            현재 상황을 남겨주시면 어디부터 손보는 게 맞는지 먼저 같이 정리할 수 있습니다.
+          </p>
+        </div>
+        <aside class="page-hero__side">
+          <p class="eyebrow">WHAT TO LEAVE</p>
+          <ul class="compact-list">
+            <li>현재 운영 중인 광고나 채널</li>
+            <li>가장 답답한 지점 한두 가지</li>
+            <li>원하는 결과나 목표 방향</li>
+          </ul>
+        </aside>
+      </section>
+
+      <section class="section">
+        <div class="section-header">
+          <div>
+            <p class="eyebrow">CONTACT FORM</p>
+            <h2 class="section-title">기본 문의 양식</h2>
+          </div>
+          <p class="section-text">
+            지금은 데모 폼이지만, 이후 실제 상담 채널이나 메일 API로 바로 연결할 수 있는 구조입니다.
+          </p>
+        </div>
+        <form class="contact-form" data-demo-form>
+          <div class="form-grid">
+            <div class="field">
+              <label for="company">브랜드명 또는 업체명</label>
+              <input id="company" name="company" type="text" placeholder="예: 오롯이 마케팅" required>
+            </div>
+            <div class="field">
+              <label for="contact-way">연락 가능한 방식</label>
+              <input id="contact-way" name="contact-way" type="text" placeholder="전화번호, 메일, 카카오톡 아이디" required>
+            </div>
+            <div class="field">
+              <label for="channel">현재 운영 채널</label>
+              <input id="channel" name="channel" type="text" placeholder="예: 메타 광고, 인스타그램, 검색광고">
+            </div>
+            <div class="field">
+              <label for="budget">예산 또는 예상 범위</label>
+              <input id="budget" name="budget" type="text" placeholder="예: 월 100만원~300만원">
+            </div>
+          </div>
+          <div class="field">
+            <label for="goal">지금 가장 먼저 해결하고 싶은 문제</label>
+            <textarea id="goal" name="goal" placeholder="문의가 적은 이유, 페이지 이탈, 광고 반응, 원하는 방향 등을 적어주세요." required></textarea>
+          </div>
+          <button class="button button-primary" type="submit">문의 남기기</button>
+          <p class="form-message" aria-live="polite"></p>
+          <p class="form-note">현재는 데모 동작만 연결되어 있습니다. 실제 운영 단계에서는 카카오톡, 메일, CRM과 연동하면 됩니다.</p>
+        </form>
+      </section>
+
+      <section class="section">
+        <div class="section-header">
+          <div>
+            <p class="eyebrow">BEFORE CONTACT</p>
+            <h2 class="section-title">문의 전에 이 정도만 정리해두면 충분합니다</h2>
+          </div>
+          <p class="section-text">
+            완벽하게 정리된 상태일 필요는 없습니다. 방향을 같이 잡기 위한 최소한의 정보만 있으면 됩니다.
+          </p>
+        </div>
+        <div class="grid-3">
+          <article class="info-card">
+            <h3>현재 상태</h3>
+            <p>지금 어떤 채널을 돌리고 있고 어떤 페이지를 쓰는지 정도만 알려주셔도 됩니다.</p>
+          </article>
+          <article class="info-card">
+            <h3>답답한 문제</h3>
+            <p>문의가 적은지, 이탈이 큰지, 광고 효율이 안 나오는지 핵심 문제를 한 줄로 적어주면 됩니다.</p>
+          </article>
+          <article class="info-card">
+            <h3>원하는 결과</h3>
+            <p>문의 증가, 예약 전환, 브랜드 정리 등 원하는 결과가 무엇인지 남겨주면 방향을 더 빨리 잡을 수 있습니다.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer-note">
+      2026 OROSI MARKETING. Contact page.
+    </footer>
+  </div>
+</body>
+</html>
