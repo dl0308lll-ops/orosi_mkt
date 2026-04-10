@@ -1,0 +1,196 @@
+<svg width="1600" height="1180" viewBox="0 0 1600 1180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Ororti Marketing Editorial Scene</title>
+  <desc>Layered editorial collage with campaign boards, social content cards, and performance visuals.</desc>
+  <defs>
+    <linearGradient id="bg" x1="172" y1="84" x2="1382" y2="1108" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#181311"/>
+      <stop offset="0.54" stop-color="#231A17"/>
+      <stop offset="1" stop-color="#130F0D"/>
+    </linearGradient>
+    <radialGradient id="glowSand" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1024 250) rotate(90) scale(260 360)">
+      <stop stop-color="#F1DDC2" stop-opacity="0.58"/>
+      <stop offset="1" stop-color="#F1DDC2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowGreen" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(356 940) rotate(90) scale(260 340)">
+      <stop stop-color="#7AA68A" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#7AA68A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCoral" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1360 160) rotate(90) scale(170 170)">
+      <stop stop-color="#E96F4B" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#E96F4B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F6EFE4"/>
+      <stop offset="1" stop-color="#E7DCCF"/>
+    </linearGradient>
+    <linearGradient id="paperWarm" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F5D2B9"/>
+      <stop offset="1" stop-color="#D98B6A"/>
+    </linearGradient>
+    <linearGradient id="paperOlive" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#DCE7D8"/>
+      <stop offset="1" stop-color="#9EB39E"/>
+    </linearGradient>
+    <linearGradient id="phoneScreen" x1="1080" y1="212" x2="1356" y2="612" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#272220"/>
+      <stop offset="1" stop-color="#11100E"/>
+    </linearGradient>
+    <linearGradient id="chartFill" x1="238" y1="264" x2="530" y2="544" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#305640"/>
+      <stop offset="1" stop-color="#17241B"/>
+    </linearGradient>
+    <linearGradient id="reelAccent" x1="1120" y1="256" x2="1288" y2="524" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6E4D3"/>
+      <stop offset="0.48" stop-color="#E96F4B"/>
+      <stop offset="1" stop-color="#385F4A"/>
+    </linearGradient>
+    <filter id="shadowSoft" x="38" y="62" width="1040" height="754" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="34" stdDeviation="34" flood-color="#050403" flood-opacity="0.28"/>
+    </filter>
+    <filter id="shadowCard" x="120" y="600" width="616" height="438" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="34" stdDeviation="36" flood-color="#050403" flood-opacity="0.28"/>
+    </filter>
+    <filter id="shadowPhone" x="958" y="122" width="494" height="662" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="42" stdDeviation="34" flood-color="#050403" flood-opacity="0.34"/>
+    </filter>
+    <filter id="shadowNote" x="590" y="78" width="410" height="242" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="30" stdDeviation="28" flood-color="#050403" flood-opacity="0.24"/>
+    </filter>
+    <filter id="shadowPanel" x="932" y="650" width="432" height="330" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="30" stdDeviation="32" flood-color="#050403" flood-opacity="0.24"/>
+    </filter>
+    <filter id="grain" x="0" y="0" width="1600" height="1180" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feTurbulence type="fractalNoise" baseFrequency="0.88" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.045"/>
+      </feComponentTransfer>
+    </filter>
+    <clipPath id="phoneClip">
+      <rect x="1066" y="184" width="278" height="472" rx="34"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1600" height="1180" fill="url(#bg)"/>
+  <ellipse cx="1036" cy="250" rx="324" ry="250" fill="url(#glowSand)"/>
+  <ellipse cx="352" cy="944" rx="314" ry="250" fill="url(#glowGreen)"/>
+  <circle cx="1360" cy="160" r="176" fill="url(#glowCoral)"/>
+
+  <path d="M68 880C218 838 344 800 480 740C616 680 770 540 954 506C1126 474 1298 520 1528 646" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2" stroke-linecap="round"/>
+  <path d="M126 226C268 168 410 140 528 140" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="2" stroke-linecap="round"/>
+
+  <g filter="url(#shadowSoft)" transform="rotate(-7 356 390)">
+    <rect x="148" y="182" width="496" height="392" rx="34" fill="url(#paper)"/>
+    <rect x="148.5" y="182.5" width="495" height="391" rx="33.5" stroke="#452F1F" stroke-opacity="0.14"/>
+    <rect x="190" y="224" width="146" height="16" rx="8" fill="#D8CBBA"/>
+    <rect x="190" y="252" width="198" height="12" rx="6" fill="#E4D9CB"/>
+    <rect x="470" y="222" width="120" height="40" rx="20" fill="#23362A"/>
+    <text x="530" y="247" text-anchor="middle" fill="#F6EFE4" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="0.14em">CAMPAIGN</text>
+
+    <rect x="192" y="298" width="408" height="208" rx="26" fill="url(#chartFill)"/>
+    <path d="M236 466C290 420 336 398 376 406C418 416 454 468 506 462C554 458 586 404 612 338" stroke="#F6EFE4" stroke-width="10" stroke-linecap="round"/>
+    <path d="M238 444C276 444 308 430 346 412C390 390 430 356 484 356C532 356 564 376 596 382" stroke="#D6E4D4" stroke-opacity="0.44" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="236" cy="466" r="12" fill="#F4B89B"/>
+    <circle cx="376" cy="406" r="12" fill="#F1DDC2"/>
+    <circle cx="506" cy="462" r="12" fill="#A8C2AD"/>
+    <circle cx="612" cy="338" r="12" fill="#F1DDC2"/>
+    <rect x="234" y="326" width="112" height="14" rx="7" fill="#E7E1D5" fill-opacity="0.18"/>
+    <rect x="234" y="350" width="148" height="12" rx="6" fill="#E7E1D5" fill-opacity="0.1"/>
+    <rect x="236" y="524" width="100" height="14" rx="7" fill="#E7E1D5" fill-opacity="0.2"/>
+    <rect x="236" y="552" width="148" height="10" rx="5" fill="#E7E1D5" fill-opacity="0.14"/>
+    <rect x="430" y="510" width="68" height="44" rx="22" fill="#F0D9C1"/>
+    <circle cx="454" cy="532" r="11" fill="#DF7D58"/>
+    <rect x="474" y="526" width="14" height="12" rx="6" fill="#315140"/>
+    <path d="M532 526H574" stroke="#E7E1D5" stroke-opacity="0.28" stroke-width="8" stroke-linecap="round"/>
+
+    <rect x="194" y="598" width="84" height="24" rx="12" fill="#E6DBCC"/>
+    <text x="236" y="615" text-anchor="middle" fill="#4A3D33" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="0.18em">PAID</text>
+    <rect x="288" y="598" width="74" height="24" rx="12" fill="#E6DBCC"/>
+    <text x="325" y="615" text-anchor="middle" fill="#4A3D33" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="0.18em">SEO</text>
+    <rect x="372" y="598" width="82" height="24" rx="12" fill="#23362A"/>
+    <text x="413" y="615" text-anchor="middle" fill="#F6EFE4" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="0.18em">REELS</text>
+
+    <rect x="176" y="170" width="82" height="20" rx="10" transform="rotate(-5 176 170)" fill="#F3E7D8" fill-opacity="0.84"/>
+    <rect x="534" y="168" width="82" height="20" rx="10" transform="rotate(8 534 168)" fill="#F3E7D8" fill-opacity="0.68"/>
+  </g>
+
+  <g filter="url(#shadowNote)" transform="rotate(-3 792 196)">
+    <rect x="648" y="116" width="294" height="154" rx="30" fill="#F4E7D8"/>
+    <rect x="688" y="154" width="128" height="14" rx="7" fill="#D8CABB"/>
+    <rect x="688" y="178" width="168" height="12" rx="6" fill="#E5DACE"/>
+    <path d="M694 224C730 196 766 250 812 224C848 204 882 240 900 214" stroke="#23362A" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="718" cy="228" r="10" fill="#E96F4B"/>
+    <circle cx="812" cy="224" r="10" fill="#315140"/>
+    <circle cx="900" cy="214" r="10" fill="#F0D9C1"/>
+    <rect x="664" y="104" width="94" height="20" rx="10" transform="rotate(-4 664 104)" fill="#F9EFE5" fill-opacity="0.8"/>
+  </g>
+
+  <g filter="url(#shadowPhone)" transform="rotate(7 1205 444)">
+    <rect x="1040" y="156" width="330" height="540" rx="40" fill="#0E0D0C"/>
+    <rect x="1066" y="184" width="278" height="472" rx="34" fill="url(#phoneScreen)"/>
+    <g clip-path="url(#phoneClip)">
+      <rect x="1084" y="212" width="242" height="252" rx="28" fill="#181514"/>
+      <circle cx="1164" cy="286" r="88" fill="#365B48"/>
+      <circle cx="1278" cy="276" r="82" fill="#D98764"/>
+      <path d="M1108 424C1144 364 1220 332 1288 310C1258 390 1184 450 1120 468" fill="url(#reelAccent)" fill-opacity="0.96"/>
+      <rect x="1108" y="236" width="76" height="22" rx="11" fill="#F3E7D8"/>
+      <text x="1146" y="251" text-anchor="middle" fill="#2A231F" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="0.2em">LAUNCH</text>
+      <path d="M1140 322C1180 294 1218 346 1266 330" stroke="#F6EFE4" stroke-width="8" stroke-linecap="round"/>
+      <rect x="1098" y="496" width="226" height="126" rx="26" fill="#F6EFE4"/>
+      <rect x="1122" y="524" width="96" height="12" rx="6" fill="#D7C9B9"/>
+      <rect x="1122" y="548" width="136" height="10" rx="5" fill="#E5D8CB"/>
+      <rect x="1124" y="578" width="52" height="26" rx="13" fill="#23362A"/>
+      <text x="1150" y="595" text-anchor="middle" fill="#F6EFE4" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="0.18em">LIVE</text>
+      <path d="M1228 594C1248 574 1260 548 1280 520" stroke="#DF7D58" stroke-width="8" stroke-linecap="round"/>
+      <circle cx="1238" cy="584" r="8" fill="#DF7D58"/>
+      <circle cx="1260" cy="552" r="8" fill="#315140"/>
+      <circle cx="1282" cy="520" r="8" fill="#F0D9C1"/>
+    </g>
+    <rect x="1142" y="172" width="126" height="12" rx="6" fill="#242120"/>
+    <circle cx="1204" cy="676" r="5" fill="#2E2A28"/>
+  </g>
+
+  <g filter="url(#shadowCard)" transform="rotate(5 408 830)">
+    <path d="M186 646H616L644 964H214L186 646Z" fill="url(#paperWarm)"/>
+    <path d="M186 646H616L644 964H214L186 646Z" stroke="#431D10" stroke-opacity="0.18"/>
+    <rect x="232" y="700" width="146" height="18" rx="9" fill="#F7E8DD" fill-opacity="0.72"/>
+    <rect x="232" y="732" width="104" height="12" rx="6" fill="#F8EDE3" fill-opacity="0.6"/>
+    <rect x="232" y="790" width="146" height="112" rx="26" fill="#F3E3D7" fill-opacity="0.96"/>
+    <rect x="398" y="790" width="192" height="112" rx="26" fill="#23362A"/>
+    <rect x="256" y="816" width="78" height="12" rx="6" fill="#D88C69"/>
+    <rect x="256" y="840" width="102" height="10" rx="5" fill="#EAD5C7"/>
+    <path d="M430 868C458 850 480 826 500 780" stroke="#F0D9C1" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="452" cy="846" r="8" fill="#F0D9C1"/>
+    <circle cx="496" cy="784" r="8" fill="#E96F4B"/>
+    <rect x="232" y="922" width="194" height="12" rx="6" fill="#F7E8DD" fill-opacity="0.58"/>
+    <rect x="232" y="946" width="126" height="10" rx="5" fill="#F7E8DD" fill-opacity="0.42"/>
+    <rect x="538" y="666" width="92" height="22" rx="11" transform="rotate(9 538 666)" fill="#F5E9DC" fill-opacity="0.68"/>
+  </g>
+
+  <g filter="url(#shadowPanel)" transform="rotate(4 1140 804)">
+    <rect x="978" y="694" width="340" height="212" rx="32" fill="url(#paperOlive)"/>
+    <rect x="1008" y="730" width="86" height="12" rx="6" fill="#728E77"/>
+    <rect x="1008" y="754" width="126" height="10" rx="5" fill="#90A391"/>
+    <rect x="1008" y="804" width="42" height="68" rx="18" fill="#305640"/>
+    <rect x="1064" y="784" width="42" height="88" rx="18" fill="#EFDCC8"/>
+    <rect x="1120" y="748" width="42" height="124" rx="18" fill="#DF7D58"/>
+    <rect x="1176" y="770" width="42" height="102" rx="18" fill="#234232"/>
+    <path d="M1248 842C1270 822 1288 798 1298 760" stroke="#23362A" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="1252" cy="838" r="8" fill="#E96F4B"/>
+    <circle cx="1276" cy="808" r="8" fill="#F0D9C1"/>
+    <circle cx="1298" cy="760" r="8" fill="#315140"/>
+  </g>
+
+  <g opacity="0.85">
+    <circle cx="992" cy="310" r="56" fill="#F1DDC2"/>
+    <path d="M972 310H1012" stroke="#1F1A16" stroke-width="7" stroke-linecap="round"/>
+    <path d="M1000 292L1018 310L1000 328" stroke="#1F1A16" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g opacity="0.68">
+    <rect x="1296" y="842" width="132" height="30" rx="15" fill="#1F1A16"/>
+    <text x="1362" y="862" text-anchor="middle" fill="#F6EFE4" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="0.22em">CHANNEL MIX</text>
+  </g>
+
+  <rect width="1600" height="1180" fill="#FFFFFF" opacity="0.8" filter="url(#grain)"/>
+</svg>

@@ -1,0 +1,158 @@
+<svg width="1600" height="1180" viewBox="0 0 1600 1180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Ororti Hero Growth Background</title>
+  <desc>Photographic style marketing growth backdrop with a modern office interior, grid lines, rising charts, and upward arrows.</desc>
+  <defs>
+    <linearGradient id="bg" x1="142" y1="96" x2="1498" y2="1118" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#334046"/>
+      <stop offset="0.46" stop-color="#202A2F"/>
+      <stop offset="1" stop-color="#12171A"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="824" y1="126" x2="1448" y2="728" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9EB3BA" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#9EB3BA" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="gridGlow" x1="974" y1="182" x2="1308" y2="594" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4F9FB" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#F4F9FB" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="barA" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#B9F6A4"/>
+      <stop offset="1" stop-color="#377E5D"/>
+    </linearGradient>
+    <linearGradient id="barB" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#9BE4A5"/>
+      <stop offset="1" stop-color="#3C8B67"/>
+    </linearGradient>
+    <linearGradient id="barC" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#80D89A"/>
+      <stop offset="1" stop-color="#2C7552"/>
+    </linearGradient>
+    <linearGradient id="barD" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#75CF97"/>
+      <stop offset="1" stop-color="#245B3F"/>
+    </linearGradient>
+    <linearGradient id="barE" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#7DDAA5"/>
+      <stop offset="1" stop-color="#184634"/>
+    </linearGradient>
+    <radialGradient id="glowTop" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1132 340) rotate(90) scale(122 132)">
+      <stop stop-color="#FFB44C" stop-opacity="0.82"/>
+      <stop offset="0.44" stop-color="#FFB44C" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#FFB44C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1348 284) rotate(90) scale(240 220)">
+      <stop stop-color="#D96F53" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#D96F53" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowBottom" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 814) rotate(90) scale(188 256)">
+      <stop stop-color="#5FC18F" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#5FC18F" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blurHeavy" x="-80" y="-80" width="1760" height="1340" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="34"/>
+    </filter>
+    <filter id="blurMid" x="-40" y="-40" width="1680" height="1260" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <filter id="glow" x="660" y="140" width="860" height="820" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+    <filter id="softGlow" x="760" y="210" width="620" height="700" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+    <filter id="grain" x="0" y="0" width="1600" height="1180" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feTurbulence type="fractalNoise" baseFrequency="0.78" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.03"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="1180" fill="url(#bg)"/>
+  <ellipse cx="1368" cy="270" rx="262" ry="220" fill="url(#glowRight)"/>
+  <ellipse cx="986" cy="828" rx="284" ry="210" fill="url(#glowBottom)"/>
+
+  <g opacity="0.92">
+    <path d="M-60 112L620 88" stroke="#A6B6BB" stroke-opacity="0.15" stroke-width="16" stroke-linecap="round"/>
+    <path d="M210 -16L716 558" stroke="#C4D0D4" stroke-opacity="0.11" stroke-width="18" stroke-linecap="round"/>
+    <path d="M984 -22L1336 316" stroke="#D6DEE1" stroke-opacity="0.08" stroke-width="20" stroke-linecap="round"/>
+    <path d="M1240 -6L1620 266" stroke="#D6DEE1" stroke-opacity="0.06" stroke-width="18" stroke-linecap="round"/>
+  </g>
+
+  <g filter="url(#blurHeavy)" opacity="0.65">
+    <rect x="92" y="532" width="224" height="474" rx="22" fill="#171D21"/>
+    <rect x="338" y="564" width="92" height="424" rx="18" fill="#242D33"/>
+    <rect x="1328" y="520" width="202" height="462" rx="28" fill="#1C2327"/>
+    <rect x="1218" y="594" width="74" height="364" rx="18" fill="#252E34"/>
+    <rect x="444" y="690" width="672" height="232" rx="44" fill="#6D7C80" fill-opacity="0.18"/>
+    <rect x="836" y="500" width="468" height="270" rx="40" fill="#85979C" fill-opacity="0.14"/>
+  </g>
+
+  <g transform="translate(-140 8) scale(1.08)">
+  <g opacity="0.48">
+    <rect x="864" y="150" width="516" height="548" rx="28" fill="url(#glass)"/>
+    <path d="M900 194V678" stroke="url(#gridGlow)" stroke-width="2"/>
+    <path d="M950 194V678" stroke="url(#gridGlow)" stroke-width="2"/>
+    <path d="M1000 194V678" stroke="url(#gridGlow)" stroke-width="2"/>
+    <path d="M1050 194V678" stroke="url(#gridGlow)" stroke-width="2"/>
+    <path d="M1100 194V678" stroke="url(#gridGlow)" stroke-width="2"/>
+    <path d="M1150 194V678" stroke="url(#gridGlow)" stroke-width="2"/>
+    <path d="M1200 194V678" stroke="url(#gridGlow)" stroke-width="2"/>
+    <path d="M1250 194V678" stroke="url(#gridGlow)" stroke-width="2"/>
+    <path d="M1300 194V678" stroke="url(#gridGlow)" stroke-width="2"/>
+    <path d="M1350 194V678" stroke="url(#gridGlow)" stroke-width="2"/>
+    <path d="M884 240H1360" stroke="#EAF1F4" stroke-opacity="0.12" stroke-width="2"/>
+    <path d="M884 292H1360" stroke="#EAF1F4" stroke-opacity="0.12" stroke-width="2"/>
+    <path d="M884 344H1360" stroke="#EAF1F4" stroke-opacity="0.12" stroke-width="2"/>
+    <path d="M884 396H1360" stroke="#EAF1F4" stroke-opacity="0.12" stroke-width="2"/>
+    <path d="M884 448H1360" stroke="#EAF1F4" stroke-opacity="0.12" stroke-width="2"/>
+    <path d="M884 500H1360" stroke="#EAF1F4" stroke-opacity="0.12" stroke-width="2"/>
+    <path d="M884 552H1360" stroke="#EAF1F4" stroke-opacity="0.12" stroke-width="2"/>
+    <path d="M884 604H1360" stroke="#EAF1F4" stroke-opacity="0.12" stroke-width="2"/>
+  </g>
+
+  <g filter="url(#glow)" opacity="0.76">
+    <path d="M916 772L1160 476L1154 406L1236 432L1274 352L1278 432L1366 450L1312 498L1324 576L1244 542L998 830L916 772Z" fill="#FFFFFF" fill-opacity="0.14"/>
+    <path d="M1036 688L1212 486L1208 432L1264 450L1294 392L1298 450L1358 464L1320 500L1328 560L1270 536L1098 736L1036 688Z" fill="#FFFFFF" fill-opacity="0.16"/>
+  </g>
+
+  <path d="M930 760L1172 464L1166 400L1252 428L1292 334L1296 426L1384 444L1332 496L1344 578L1262 542L1016 840L930 760Z" fill="#FFFFFF" fill-opacity="0.4"/>
+  <path d="M1042 674L1222 470L1218 424L1270 440L1298 384L1300 440L1356 454L1320 490L1328 548L1274 528L1092 734L1042 674Z" fill="#FFFFFF" fill-opacity="0.26"/>
+  <path d="M858 638L1006 478L1004 430L1052 444L1076 392L1078 444L1128 458L1094 492L1102 544L1054 524L904 686L858 638Z" fill="#D4E0E4" fill-opacity="0.18"/>
+
+  <ellipse cx="1132" cy="338" rx="126" ry="118" fill="url(#glowTop)"/>
+
+  <g filter="url(#softGlow)" opacity="0.32">
+    <rect x="954" y="466" width="54" height="270" rx="20" fill="#A0F0B0"/>
+    <rect x="1028" y="430" width="62" height="306" rx="22" fill="#8BE1A8"/>
+    <rect x="1110" y="372" width="74" height="364" rx="24" fill="#6BC98E"/>
+    <rect x="1204" y="288" width="90" height="448" rx="26" fill="#56B578"/>
+  </g>
+
+  <g>
+    <rect x="954" y="476" width="52" height="254" rx="18" fill="url(#barA)"/>
+    <rect x="1026" y="434" width="58" height="296" rx="20" fill="url(#barB)"/>
+    <rect x="1104" y="368" width="70" height="362" rx="22" fill="url(#barC)"/>
+    <rect x="1192" y="278" width="88" height="452" rx="24" fill="url(#barD)"/>
+    <rect x="1300" y="418" width="42" height="312" rx="18" fill="url(#barE)"/>
+    <rect x="922" y="730" width="470" height="14" rx="7" fill="#EAF1F4" fill-opacity="0.16"/>
+    <rect x="940" y="744" width="430" height="10" rx="5" fill="#11171A" fill-opacity="0.34"/>
+  </g>
+
+  <g opacity="0.3">
+    <path d="M898 700C946 676 988 670 1032 656C1094 636 1140 592 1200 568C1248 550 1300 550 1358 560" stroke="#EAF1F4" stroke-width="4" stroke-linecap="round"/>
+    <path d="M908 650C970 640 1018 594 1062 562C1118 520 1168 498 1222 478C1268 462 1322 448 1360 420" stroke="#EAF1F4" stroke-opacity="0.24" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  </g>
+
+  <g filter="url(#blurMid)" opacity="0.44">
+    <ellipse cx="730" cy="988" rx="686" ry="146" fill="#0D1113"/>
+    <ellipse cx="1168" cy="980" rx="350" ry="100" fill="#49675B" fill-opacity="0.18"/>
+  </g>
+
+  <rect width="1600" height="1180" fill="#0A0D0F" fill-opacity="0.18"/>
+  <rect width="1600" height="1180" fill="#FFFFFF" opacity="0.6" filter="url(#grain)"/>
+  <rect width="1600" height="1180" fill="url(#bg)" fill-opacity="0.16"/>
+  <rect width="1600" height="1180" fill="#000000" fill-opacity="0.18"/>
+</svg>
